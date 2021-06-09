@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="i-recycle-text.png" alt="LOGO 3R" height="100">
+    <img src="i-recycle-text.png" alt="LOGO 3R" height="300">
   </a>
   <br>
 
